@@ -1,4 +1,3 @@
-<!-- create.php vai create.html -->
 <html>
 <head>
 	<title>Izveidot jautājumu</title>

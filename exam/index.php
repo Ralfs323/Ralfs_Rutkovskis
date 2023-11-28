@@ -1,4 +1,3 @@
-<!-- index.php -->
 <html>
 <head>
 	<title>Jautājumu saraksts</title>
